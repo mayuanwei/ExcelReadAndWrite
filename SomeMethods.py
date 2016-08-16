@@ -25,4 +25,3 @@ def convert_Camel_to_low_underline_by_regular(str):
 if __name__ == '__main__':
     print(convert_Camel_to_low_underline('MyNameIs'))
     print(convert_Camel_to_low_underline_by_regular('MyNameIs'))
-    a=2
