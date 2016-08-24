@@ -33,5 +33,6 @@ def xls_read():
     print(sheet2.cell(1, 2).ctype)
     print(sheet2.cell(2, 4).ctype)
 
+
 if __name__ == '__main__':
     xls_read()

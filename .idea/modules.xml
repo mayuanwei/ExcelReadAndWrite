@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../ApiTestLearn/.idea/ApiTestLearn.iml" filepath="$PROJECT_DIR$/../ApiTestLearn/.idea/ApiTestLearn.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ExcelReadAndWrite.iml" filepath="$PROJECT_DIR$/.idea/ExcelReadAndWrite.iml" />
       <module fileurl="file://$PROJECT_DIR$/../TestSamples/.idea/TestSamples.iml" filepath="$PROJECT_DIR$/../TestSamples/.idea/TestSamples.iml" />
     </modules>
