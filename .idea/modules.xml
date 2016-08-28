@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ExcelReadAndWrite.iml" filepath="$PROJECT_DIR$/.idea/ExcelReadAndWrite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../hello-world2/.idea/hello-world2.iml" filepath="$PROJECT_DIR$/../hello-world2/.idea/hello-world2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestSamples/.idea/TestSamples.iml" filepath="$PROJECT_DIR$/../TestSamples/.idea/TestSamples.iml" />
     </modules>
   </component>
 </project>

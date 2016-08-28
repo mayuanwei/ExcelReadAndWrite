@@ -1,7 +1,8 @@
 import xlsxwriter
 
 def write():
-    workbook = xlsxwriter.Workbook(r'C:\Program Files\Python35\test\demo3.xlsx')
+    workbook = xlsxwriter.Workbook(r'C:\Program Files\Python35\test\demo.xlsx')
+
     worksheet = workbook.add_worksheet()
 
     bold = workbook.add_format({'bold':True})

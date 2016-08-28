@@ -62,6 +62,7 @@ def write_excel_by_workbook():
 
 def test_format():
     w = Workbook()
+
     sheet = w.add_sheet('date')
 
     fmts = [
