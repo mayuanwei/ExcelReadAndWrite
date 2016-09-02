@@ -51,14 +51,14 @@ def getDays_2(begin,end):
 
     return days
 
-if __name__ == '__main__':
+'''if __name__ == '__main__':
     print(getToday())
     print(getYesterday())
     print(strTodatetime('1992/12/31','%Y/%m/%d'))
     print(datediff_1('2016-7-29','2016-8-15'))
     print(datediff_2('2016-7-29','2016-8-15'))
     print(getDays_1('2016-7-29','2016-8-15'))
-    print(getDays_2('2016-7-29','2016-8-15'))
+    print(getDays_2('2016-7-29','2016-8-15'))'''
 
     '''a='1992/12/31'
     print(time.strptime('1992/12/31','%Y/%m/%d'))
